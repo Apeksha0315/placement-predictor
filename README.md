@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-An end-to-end Machine Learning web application that predicts whether a student will get placed based on academic performance, skills, and key performance indicators.
+An end-to-end Machine Learning web application that predicts whether a student will get placed based on academic performance, skills and key performance indicators.
 
 ## 📌 Project Overview
 
@@ -71,3 +71,4 @@ This project demonstrates practical implementation of machine learning in real-w
 ![Feature Importance](assets/feature_importance.png)
 
 ---
+
